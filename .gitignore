@@ -1,0 +1,4 @@
+mc_venv/
+.DS_Store
+__pycache__/
+.ipynb
